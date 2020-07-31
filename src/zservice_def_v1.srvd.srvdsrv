@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Odata'
+define service ZSERVICE_DEF_V1 {
+  expose Z_C_VENDOR_SUSTAIN_V1;
+}
